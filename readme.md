@@ -1,4 +1,5 @@
-Time Series Forecasting with Statistical Models - Python, Statsmodels, Numpy, Pandas
+# Time Series Forecasting with Statistical Models 
+Python, Statsmodels, Numpy, Pandas
 
 Used exogenous and endogenous variables to predict the production quantity of maple syrup for different regions. Performed ADF test and differenced the data, built a SARIMAX model using Auto ARIMA on the data
 
